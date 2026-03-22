@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: https://renoquotes.com/en/form/service/plumbing?utm_campaign=jb
+Crawl-delay: 3
+
+Sitemap: https://plumber-quotes.ca/sitemap-index.xml
