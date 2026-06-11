@@ -1,6 +1,5 @@
 User-agent: *
 Allow: /
 Disallow: /get-plumber-quote/
-Crawl-delay: 3
 
 Sitemap: https://plumber-quotes.ca/sitemap-index.xml
